@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Portfolio
+# Portfolio
 
 Welcome to my data science/ machine learning portfolio! Here, I document a summary of my selected projects in the data science and machine learning field.
 
@@ -9,7 +9,7 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 * [Reinforcement Learning](README.md#%EF%B8%8F-data-wrangling)
 
 
-# 👩🏻‍💻🆗🤖🖥️ Interpretable AI 
+# 🆗🤖🖥️ Interpretable AI 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | [Interpretable AI for Medical Imaging Data](https://github.com/hhaeri/Interpretable-AI-for-Medical-Imaging) | Ongoing | Python, PyTorch, TensorFlow, Variational Auto Encoder | Focus of my research is to provide interpretable deep learning models for processing and classification of medical imaging data. The current research efforts are directed towards the refinement of multiple regularization techniques tailored for enhancing the performance of a novel VAE architecture named CLAP. |
@@ -23,12 +23,12 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 | [Image Classification for Fastion-MNIST Dataset using Neural Networks](https://github.com/nozaripo/Deep-Learning-Projects-Sample/blob/main/Fashion%20MNIST/MLP%20-%20Fashion%20MNIST.ipynb) | Feb 2020 | Python, Jupyter Notebook, TensorFlow, NumPy, CNN, MiniVGGNet, CUDA | Designed, created, and deployed a custom time series forecasting model to predict county_level daily COVID-19 case count in the State of California using Python and Streamlit on Jupyter Notebook. |
 | [Language Classification for Speech Data using Gated Recurrent Units (GRUs)](https://github.com/nozaripo/Deep-Learning-Projects-Sample/tree/main/Language%20Classification%20-%20RNN) | March 2020 | Python, Jupyter Notebook, TensorFlow, NumPy, RNN, Librosa, CUDA, AWS | Designed, created, and deployed a custom time series forecasting model to predict county_level daily COVID-19 case count in the State of California using Python and Streamlit on Jupyter Notebook. |
 
-# 👩🏻‍💻📖㊗️🖥️ Natural Language Processing
+# 📖㊗️🖥️ Natural Language Processing
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | [Natural Language Processing with Yelp reviews](https://github.com/hhaeri/NLP-with-Yelp-reviews) | Feb 2022 | Python, Scikit_Learn | Performed Natural Language Processing using the Yelp Review dataset on the kaggle website. Built bag-of-word and bigram models. Built a Naive Bayes model to find the most polar words. Analysed reviews of restaurants to find food bigrams  |
 
-# 👩🏻‍💻🖥️📈 Data Wrangling 
+# 🖥️📈 Data Wrangling 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 |  [The New York Social Network Graph Project](https://github.com/hhaeri/The-New-York-Social-Graph) | Jan 2022 | Python, Beautiful Soup, NetworkX, NLTK, Regex, Rest API | Built a social network for New York's social elite by web scraping the New York Social Diary.|
