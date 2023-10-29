@@ -4,7 +4,7 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 
 ## 📚 Table of Contents
 * [Machine Learning](README.md#%EF%B8%8F-machine-learning)
-* [Deep Learning](README.md#%EF%B8%8F-machine/deep-learning)
+* [Deep Learning](README.md#%EF%B8%8F-deep-learning)
 * [Data Wrangling](README.md#%EF%B8%8F-data-wrangling)
 * [Reinforcement Learning](README.md#%EF%B8%8F-data-wrangling)
 
