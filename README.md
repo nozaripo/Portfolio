@@ -3,7 +3,7 @@
 Welcome to my data science/ machine learning portfolio! Here, I document a summary of my selected projects in the data science and machine learning field.
 
 ## 📚 Table of Contents
-* [Machine Learning](README.md-interpretable-ai)
+* [Machine Learning](README.md#%EF%B8%8F-machine-learning)
 * [Deep Learning](README.md#%EF%B8%8F-machine/deep-learning)
 * [Data Wrangling](README.md#%EF%B8%8F-data-wrangling)
 * [Reinforcement Learning](README.md#%EF%B8%8F-data-wrangling)
@@ -15,11 +15,13 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 | [Interpretable AI for Medical Imaging Data](https://github.com/hhaeri/Interpretable-AI-for-Medical-Imaging) | Ongoing | Python, PyTorch, TensorFlow, Variational Auto Encoder | Focus of my research is to provide interpretable deep learning models for processing and classification of medical imaging data. The current research efforts are directed towards the refinement of multiple regularization techniques tailored for enhancing the performance of a novel VAE architecture named CLAP. |
 | [Interpreting an Image Classifier](https://github.com/hhaeri/Interpreting_Image_Classifiers) | Sep 2023 | Python, PyTorch, OmniXAI, HuggingFace | Developed and implemented an image classifier interpretation tool. The pipeline encompassed utilizing a pre-trained RESNET model to create predictions for selected images and employing model-agnostic interpretation tools via OmniXAI to delve into the underlying rationales guiding the model's decisions. |
 | [Interpreting Text Classifiers and Benchmarking Explainers](https://github.com/hhaeri/Interpreting-Text-Classifiers) | Sep 2023 | Python, PyTorch, FerretXAI, HuggingFace | Developed and implemented a text classifier interpretation tool. The pipeline encompassed utilizing a pre-trained NLP model to peform sentiment analysis for selected movie reviews and employing model-agnostic interpretation tools via FerretXAI to delve into the underlying rationales guiding the model's decisions. |
-# 👩🏻‍💻🤖🧠🖥️ Machine/Deep Learning 
+
+# 🤖🧠🖥️ Deep Learning 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| [Semantic Segmentation for Extracting Geologic Features from Historic Topographic Maps](https://github.com/hhaeri/Semantic-Segmentation-for-Feature-Extraction) | Jan 2023 | Python, PyTorch, TensorFlow, CNN, Unet, MaskRCNN | Developed and implemented a Semantic Segmenttaion model for extracting features from historic USGS maps. The pipeline encompassed utilizing a pre-trained UNet model and fine-tuning it with the available data. |
+| [Digit Classification for MNIST Dataset Using MLP Backpropagation](https://github.com/nozaripo/Deep-Learning-Projects-Sample/blob/main/MNIST/MNIST--BackProp.ipynb) | Jan 2023 | Python, Numpy, Scipy | Developed and implemented an image classification model for classifying digits in the MNIST dataset. The pipeline encompassed developing a multi-layer perception (MLP) and performing a manual backpropagation on this MLP using only `numpy` and not other ML-specific frameworks. |
 | [Prediction of Daily County Level COVID Cases in School Age Population using Machine Learning](https://github.com/hhaeri/TDI_Capstone) | Mar 2022 |Python, Jupyter Notebook, Pandas, scikit-learn, Streamlit | Designed, created, and deployed a custom time series forecasting model to predict county_level daily COVID-19 case count in the State of California using Python and Streamlit on Jupyter Notebook. |
+
 # 👩🏻‍💻📖㊗️🖥️ Natural Language Processing
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
