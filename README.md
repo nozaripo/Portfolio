@@ -25,8 +25,8 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 # <a href="" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/reinforcement-learning-2040769-1721120.png" alt="" height="50" width="50" /></a> Reinforcement Learning
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| [Grid-world Path Finding Using Markov Decision Processes](https://github.com/nozaripo/BipedalWalking_Simulink_ModelnData) | Jul 2022 | Matlab, SimuLink, Matlab Deep Reinforcement Learning |	Created a reinforcement-learning-based platform for simulations of bipedal walking in SimuLink, achieving a stable gait.  |
-| [An RL-Based Simulation Platform for Human Bipedal Walking](https://github.com/nozaripo/RL_MDP--PathFinding/blob/main/Initial_Setup.ipynb) | Nov 2021 | Python, Jupyter Notebook | Solved for the optimal stochastic policy in a grid-world path-finding problem using Reinforcement Learning via value iteration.  |
+| [Grid-world Path Finding Using Markov Decision Processes](https://github.com/nozaripo/BipedalWalking_Simulink_ModelnData) | Nov 2021 | Matlab, SimuLink, Matlab Deep Reinforcement Learning |	Created a reinforcement-learning-based platform for simulations of bipedal walking in SimuLink, achieving a stable gait.  |
+| [An RL-Based Simulation Platform for Human Bipedal Walking](https://github.com/nozaripo/RL_MDP--PathFinding/blob/main/Initial_Setup.ipynb) | Jul 2022 | Python, Jupyter Notebook | Solved for the optimal stochastic policy in a grid-world path-finding problem using Reinforcement Learning via value iteration.  |
 
 
 # 📊📈 Data Wrangling 
