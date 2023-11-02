@@ -2,10 +2,19 @@
 
 Welcome to my data science/ machine learning portfolio! Here, I document a summary of my selected projects in the data science and machine learning field.
 
+# 📊📈 Data Wrangling 
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+|  [Stock Data Analytics: From Extraction to Visualization](https://github.com/nozaripo/Data_Wrangling/blob/master/Stock%20-%20Web%20Scraping%20%26%20Plotly/Stock_Data_Wrangling-Web_Scraping_Visualization.ipynb) | Jan 2022 | Python, BeautifulSoup, yfinance, Plotly, Pandas, Rest API | Solved the stock data extraction problem and built dashboards for visualization of the data.|
+|  [Data Wrangling for Gapminder Dataset](https://github.com/nozaripo/Data_Wrangling/blob/master/Data%20Manipulation%20%26%20Visualization%20for%20Gapminder/Tidyverse_Gapminder.pdf) | Jan 2022 | Python, Beautiful Soup, NetworkX, NLTK, Regex, Rest API | Built a social network for New York's social elite by web scraping the New York Social Diary.|
+|  [The New York Social Network Graph Project](https://github.com/hhaeri/The-New-York-Social-Graph) | Jan 2022 | Python, Beautiful Soup, NetworkX, NLTK, Regex, Rest API | Built a social network for New York's social elite by web scraping the New York Social Diary.|
+|  [Investigating Netflix Movies & Guest Stars](https://github.com/nozaripo/Data_Wrangling/blob/master/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20the%20Office/notebook.ipynb) | Aug 2019 | Python, Beautiful Soup, NetworkX, NLTK, Regex, Rest API | Built a social network for New York's social elite by web scraping the New York Social Diary.|
+
+
 ## 📚 Table of Contents
+* [Data Wrangling](README.md#%EF%B8%8F-data-wrangling)
 * [Machine Learning](README.md#%EF%B8%8F-machine-learning)
 * [Deep Learning](README.md#%EF%B8%8F-deep-learning)
-* [Data Wrangling](README.md#%EF%B8%8F-data-wrangling)
 * [Reinforcement Learning](README.md#%EF%B8%8F-data-wrangling)
 
 # 🖥️ Machine Learning & Statistical Modeling
@@ -28,8 +37,3 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 | [Grid-world Path Finding Using Markov Decision Processes](https://github.com/nozaripo/BipedalWalking_Simulink_ModelnData) | Nov 2021 | Matlab, SimuLink, Matlab Deep Reinforcement Learning |	Created a reinforcement-learning-based platform for simulations of bipedal walking in SimuLink, achieving a stable gait.  |
 | [An RL-Based Simulation Platform for Human Bipedal Walking](https://github.com/nozaripo/RL_MDP--PathFinding/blob/main/Initial_Setup.ipynb) | Jul 2022 | Python, Jupyter Notebook | Solved for the optimal stochastic policy in a grid-world path-finding problem using Reinforcement Learning via value iteration.  |
 
-
-# 📊📈 Data Wrangling 
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-|  [The New York Social Network Graph Project](https://github.com/hhaeri/The-New-York-Social-Graph) | Jan 2022 | Python, Beautiful Soup, NetworkX, NLTK, Regex, Rest API | Built a social network for New York's social elite by web scraping the New York Social Diary.|
