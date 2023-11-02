@@ -2,20 +2,23 @@
 
 Welcome to my data science/ machine learning portfolio! Here, I document a summary of my selected projects in the data science and machine learning field.
 
+## 📚 Table of Contents
+* [Data Wrangling](README.md#%EF%B8%8F-data-wrangling)
+* [Machine Learning](README.md#%EF%B8%8F-machine-learning-&-statistical-modeling)
+* [Deep Learning](README.md#%EF%B8%8F-deep-learning)
+* [Reinforcement Learning](README.md#%EF%B8%8F-reinforcement-learning)
+
+
 # 📊📈 Data Wrangling 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-|  [Stock Data Analytics: From Extraction to Visualization](https://github.com/nozaripo/Data_Wrangling/blob/master/Stock%20-%20Web%20Scraping%20%26%20Plotly/Stock_Data_Wrangling-Web_Scraping_Visualization.ipynb) | Jan 2022 | Python, BeautifulSoup, yfinance, Plotly, Pandas, Rest API | Solved the stock data extraction problem and built dashboards for visualization of the data.|
-|  [Data Wrangling for Gapminder Dataset](https://github.com/nozaripo/Data_Wrangling/blob/master/Data%20Manipulation%20%26%20Visualization%20for%20Gapminder/Tidyverse_Gapminder.pdf) | Jan 2022 | Python, Beautiful Soup, NetworkX, NLTK, Regex, Rest API | Built a social network for New York's social elite by web scraping the New York Social Diary.|
+|  [Stock Data Analytics: From Extraction to Visualization](https://github.com/nozaripo/Data_Wrangling/blob/master/Stock%20-%20Web%20Scraping%20%26%20Plotly/Stock_Data_Wrangling-Web_Scraping_Visualization.ipynb) | Sep 2023 | Python, Web Scraping with BeautifulSoup, yfinance, Plotly, Pandas, Rest API | Solved the stock data extraction problem and built dashboards for visualization of the data.|
+|  [Data Wrangling for Gapminder Dataset](https://github.com/nozaripo/Data_Wrangling/blob/master/Data%20Manipulation%20%26%20Visualization%20for%20Gapminder/Tidyverse_Gapminder.pdf) | Feb 2022 | R, tidyverse (dplyr, tidyr, ggplot) | Provided an overview of data manipulation and visualization for Gapminder dataset in R.|
 |  [The New York Social Network Graph Project](https://github.com/hhaeri/The-New-York-Social-Graph) | Jan 2022 | Python, Beautiful Soup, NetworkX, NLTK, Regex, Rest API | Built a social network for New York's social elite by web scraping the New York Social Diary.|
-|  [Investigating Netflix Movies & Guest Stars](https://github.com/nozaripo/Data_Wrangling/blob/master/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20the%20Office/notebook.ipynb) | Aug 2019 | Python, Beautiful Soup, NetworkX, NLTK, Regex, Rest API | Built a social network for New York's social elite by web scraping the New York Social Diary.|
+|  [Investigating Netflix Movies & Guest Stars](https://github.com/nozaripo/Data_Wrangling/blob/master/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20the%20Office/notebook.ipynb) | Aug 2019 | Python, Pandas, Matplotlib | Analyzed the data for Netflix movies and guest stars.|
 
 
-## 📚 Table of Contents
-* [Data Wrangling](README.md#%EF%B8%8F-data-wrangling)
-* [Machine Learning](README.md#%EF%B8%8F-machine-learning)
-* [Deep Learning](README.md#%EF%B8%8F-deep-learning)
-* [Reinforcement Learning](README.md#%EF%B8%8F-data-wrangling)
+
 
 # 🖥️ Machine Learning & Statistical Modeling
 | Project Link | Completion Date | Tools | Project Description | 
