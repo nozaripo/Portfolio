@@ -3,10 +3,10 @@
 Welcome to my data science/ machine learning portfolio! Here, I document a summary of my selected projects in the data science and machine learning field.
 
 ## 📚 Table of Contents
-* [Data Wrangling](README.md#%EF%B8%8F-data-wrangling)
-* [Machine Learning](README.md#%EF%B8%8F-Machine-Learning-&-Statistical-Modeling)
-* [Deep Learning](README.md#%EF%B8%8F-deep-learning)
-* [Reinforcement Learning](README.md#%EF%B8%8F-reinforcement-learning)
+- ### [Data Wrangling](README.md#%EF%B8%8F-data-wrangling)
+- ### [Machine Learning](README.md#%EF%B8%8F-Machine-Learning-&-Statistical-Modeling)
+- ### [Deep Learning](README.md#%EF%B8%8F-deep-learning)
+- ### [Reinforcement Learning](README.md#%EF%B8%8F-reinforcement-learning)
 
 
 # 📊📈 Data Wrangling 
