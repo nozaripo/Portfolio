@@ -3,10 +3,10 @@
 Welcome to my data science/ machine learning portfolio! Here, I document a summary of my selected projects in the data science and machine learning field.
 
 ## 📚 Table of Contents
-- ### [Data Wrangling](README.md#%EF%B8%8F-data-wrangling)
-- ### [Machine Learning](README.md#%EF%B8%8F-Machine-Learning-&-Statistical-Modeling)
-- ### [Deep Learning](README.md#%EF%B8%8F-deep-learning)
-- ### [Reinforcement Learning](README.md#%EF%B8%8F-reinforcement-learning)
+- ### [Data Wrangling](#-data-wrangling)
+- ### [Machine Learning](#%EF%B8%8F-machine-learning--statistical-modeling)
+- ### [Deep Learning](#-deep-learning)
+- ### [Reinforcement Learning](#-reinforcement-learning)
 
 
 # 📊📈 Data Wrangling 
@@ -22,10 +22,10 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | [Predicting House Sales in King County Using Linear Regression and Shrinkage Methods](https://github.com/nozaripo/Machine_Learning_Projects/blob/main/House%20Sales%20in%20King%20Count%20-%20Pipelines%20%26%20Shrinkage/House_Sales_in_King_Count_USA.ipynb) | Aug 2023 | Python, Scikit-Learn, Pandas, Numpy | Focus of this project was to perform data analytics and statistical modeling. The models of choice were linear regression, nonlinear regression, and shrinkage, such as ridge regression. |
-| [Predicting Boston Housing Using Ensemble Methods](https://github.com/nozaripo/Machine_Learning_Projects/blob/main/Predicting%20Boston%20Housing%20Using%20Ensemble%20ML/Ensemble-Methods---Boston.pdf) | Apr 2022 | R, Regression Tree, Ensemble methods, RandomForest, Tidyverse, MASS |  |
-| [Titanic: Machine Learning from Disaster](https://github.com/nozaripo/Machine_Learning_Projects/blob/main/Titanic%20-%20Machine%20Learning%20from%20Disaster/ML-from-Titanic-Data.pdf) | Apr 2022 | R, Classification, Logistic Regression, Generalized Linear Models (GLM), Preprocessing, Tidyverse, caret |  |
-| [Explaining Ordothontic Growth Data with One Model: Linear Mixed Effects](https://github.com/nozaripo/Machine_Learning_Projects/blob/main/Titanic%20-%20Machine%20Learning%20from%20Disaster/ML-from-Titanic-Data.pdf) | Apr 2022 | R, Regression, Linear Mixed Effects Model, Generalized Linear Models (GLM), Preprocessing, Tidyverse, caret |  |
-
+| [Predicting Boston Housing Using Ensemble Methods](https://github.com/nozaripo/Machine_Learning_Projects/tree/main/Predicting%20Boston%20Housing%20Using%20Ensemble%20ML) | Apr 2022 | R, Regression Tree, Ensemble methods, RandomForest, Tidyverse, MASS |  |
+| [Titanic: Machine Learning from Disaster](https://github.com/nozaripo/Machine_Learning_Projects/tree/main/Titanic%20-%20Machine%20Learning%20from%20Disaster) | Apr 2022 | R, Classification, Logistic Regression, Generalized Linear Models (GLM), Preprocessing, Tidyverse, caret |  |
+| [Explaining Ordothontic Growth Data with One Model: Linear Mixed Effects](https://github.com/nozaripo/Machine_Learning_Projects/tree/main/Mixed%20Effect%20Models%20--%20Orthodontic%20Growth%20Data) | Apr 2022 | R, Regression, Linear Mixed Effects Model, NLME, Tidyverse, ggplot |  |
+| [Computational Methods in Linear Regression - Intuition](https://github.com/nozaripo/Machine_Learning_Projects/tree/main/Linear%20Regression%20--%20Intuition) | Apr 2022 | R, Regression, Linear Algebra, Data Structures, Numerical Computation, Iterative Search, Gradient Descent, ggplot |  |
 
 
 | [Interpretable AI for Medical Imaging Data](https://github.com/hhaeri/Interpretable-AI-for-Medical-Imaging) | Ongoing | Python, PyTorch, TensorFlow, Variational Auto Encoder | Focus of my research is to provide interpretable deep learning models for processing and classification of medical imaging data. The current research efforts are directed towards the refinement of multiple regularization techniques tailored for enhancing the performance of a novel VAE architecture named CLAP. |
