@@ -24,6 +24,7 @@ Welcome to my data science/ machine learning portfolio! Here, I document a summa
 | [Predicting House Sales in King County Using Linear Regression and Shrinkage Methods](https://github.com/nozaripo/Machine_Learning_Projects/blob/main/House%20Sales%20in%20King%20Count%20-%20Pipelines%20%26%20Shrinkage/House_Sales_in_King_Count_USA.ipynb) | Aug 2023 | Python, Scikit-Learn, Pandas, Numpy | Focus of this project was to perform data analytics and statistical modeling. The models of choice were linear regression, nonlinear regression, and shrinkage, such as ridge regression. |
 | [Predicting Boston Housing Using Ensemble Methods](https://github.com/nozaripo/Machine_Learning_Projects/blob/main/Predicting%20Boston%20Housing%20Using%20Ensemble%20ML/Ensemble-Methods---Boston.pdf) | Apr 2022 | R, Regression Tree, Ensemble methods, RandomForest, Tidyverse, MASS |  |
 | [Titanic: Machine Learning from Disaster](https://github.com/nozaripo/Machine_Learning_Projects/blob/main/Titanic%20-%20Machine%20Learning%20from%20Disaster/ML-from-Titanic-Data.pdf) | Apr 2022 | R, Classification, Logistic Regression, Generalized Linear Models (GLM), Preprocessing, Tidyverse, caret |  |
+| [Explaining Ordothontic Growth Data with One Model: Linear Mixed Effects](https://github.com/nozaripo/Machine_Learning_Projects/blob/main/Titanic%20-%20Machine%20Learning%20from%20Disaster/ML-from-Titanic-Data.pdf) | Apr 2022 | R, Regression, Linear Mixed Effects Model, Generalized Linear Models (GLM), Preprocessing, Tidyverse, caret |  |
 
 
 
