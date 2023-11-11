@@ -15,8 +15,10 @@
 |  [GPU-Accelerated Data Analytics for Infection Data using RAPIDS](https://github.com/nozaripo/Data_Wrangling/blob/master/GPU-Accelerated%20Data%20Analytics%20for%20Gigantic%20Infection%20Data/Accelerated_Data_Analytics.ipynb) | Oct 2023 | Python, RAPIDS, Google Colab, DASK, cuDF, cuML, cuPy | Analyzed the gigantic dataset of infection (~60 million data points) using RAPIDS suite.|
 |  [Stock Data Analytics: From Extraction to Visualization](https://github.com/nozaripo/Data_Wrangling/blob/master/Stock%20-%20Web%20Scraping%20%26%20Plotly/Stock_Data_Wrangling-Web_Scraping_Visualization.ipynb) | Sep 2023 | Python, Web Scraping with BeautifulSoup, yfinance, Plotly, Pandas, Rest API | Solved the stock data extraction problem and built dashboards for visualization of the data.|
 |  [Data Wrangling for Gapminder Dataset](https://github.com/nozaripo/Data_Wrangling/blob/master/Data%20Manipulation%20%26%20Visualization%20for%20Gapminder/Tidyverse_Gapminder.pdf) | Feb 2022 | R, tidyverse (dplyr, tidyr, ggplot) | Provided an overview of data manipulation and visualization for Gapminder dataset in R.|
-|  [The New York Social Network Graph Project](https://github.com/hhaeri/The-New-York-Social-Graph) | Jan 2022 | Python, Beautiful Soup, NetworkX, NLTK, Regex, Rest API | Built a social network for New York's social elite by web scraping the New York Social Diary.|
 |  [Investigating Netflix Movies & Guest Stars](https://github.com/nozaripo/Data_Wrangling/blob/master/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20the%20Office/notebook.ipynb) | Aug 2019 | Python, Pandas, Matplotlib | Analyzed the data for Netflix movies and guest stars.|
+
+<!--- |  [The New York Social Network Graph Project](https://github.com/hhaeri/The-New-York-Social-Graph) | Jan 2022 | Python, Beautiful Soup, NetworkX, NLTK, Regex, Rest API | Built a social network for New York's social elite by web scraping the New York Social Diary.| 
+--->
 
 
 # 🖥️ Machine Learning & Statistical Modeling
