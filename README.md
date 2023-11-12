@@ -9,16 +9,6 @@
 
 ---
 
-# 📊📈 Data Wrangling 
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-|  [GPU-Accelerated Data Analytics for Infection Data using RAPIDS](https://github.com/nozaripo/Data_Wrangling/blob/master/GPU-Accelerated%20Data%20Analytics%20for%20Gigantic%20Infection%20Data/Accelerated_Data_Analytics.ipynb) | Oct 2023 | Python, RAPIDS, Google Colab, DASK, cuDF, cuML, cuPy | Analyzed the gigantic dataset of infection (~60 million data points) using RAPIDS suite.|
-|  [Stock Data Analytics: From Extraction to Visualization](https://github.com/nozaripo/Data_Wrangling/blob/master/Stock%20-%20Web%20Scraping%20%26%20Plotly/Stock_Data_Wrangling-Web_Scraping_Visualization.ipynb) | Sep 2023 | Python, Web Scraping with BeautifulSoup, yfinance, Plotly, Pandas, Rest API | Solved the stock data extraction problem and built dashboards for visualization of the data.|
-|  [Data Wrangling for Gapminder Dataset](https://github.com/nozaripo/Data_Wrangling/blob/master/Data%20Manipulation%20%26%20Visualization%20for%20Gapminder/Tidyverse_Gapminder.pdf) | Feb 2022 | R, tidyverse (dplyr, tidyr, ggplot) | Provided an overview of data manipulation and visualization for Gapminder dataset in R.|
-|  [Investigating Netflix Movies & Guest Stars](https://github.com/nozaripo/Data_Wrangling/blob/master/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20the%20Office/notebook.ipynb) | Aug 2019 | Python, Pandas, Matplotlib | Analyzed the data for Netflix movies and guest stars.|
-
-<!--- |  [The New York Social Network Graph Project](https://github.com/hhaeri/The-New-York-Social-Graph) | Jan 2022 | Python, Beautiful Soup, NetworkX, NLTK, Regex, Rest API | Built a social network for New York's social elite by web scraping the New York Social Diary.| 
---->
 
 
 # 🖥️ Machine Learning & Statistical Modeling
@@ -38,6 +28,19 @@
 | [Language Classification for Speech Data using Gated Recurrent Units (GRUs)](https://github.com/nozaripo/Deep-Learning-Projects-Sample/blob/main/Language%20Classification%20-%20RNN/LanguageDetection_RNN.ipynb) | March 2020 | Python, TensorFlow, Keras, NumPy, RNN, Librosa, CUDA, AWS | Resolved the language classification problem for complex speech data by building recurrent neural networks using Gated Recurrent Units (GRUs) from TensorFlow deployed on AWS. |
 | [Image Classification for Fastion-MNIST Dataset using Neural Networks](https://github.com/nozaripo/Deep-Learning-Projects-Sample/blob/main/Fashion%20MNIST/MLP%20-%20Fashion%20MNIST.ipynb) | Feb 2020 | Python, Jupyter Notebook, TensorFlow, Keras, NumPy, CNN, MiniVGGNet, CUDA | Designed, created, and deployed a regularized MLP model and MiniVGGNet CNN on AWS CUDA to resolve overfitting in image classification of Fashion-MNIST dataset. |
 | [Digit Classification for MNIST Dataset Using MLP Backpropagation](https://github.com/nozaripo/Deep-Learning-Projects-Sample/blob/main/MNIST/MNIST--BackProp.ipynb) | Jan 2020 | Python, NumPy, SciPy | Developed and implemented an image classification model for classifying digits in the MNIST dataset by implementing MLP backpropagation from scratch using only `NumPy` package and not other ML-specific frameworks. |
+
+
+
+# 📊📈 Data Wrangling 
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+|  [GPU-Accelerated Data Analytics for Infection Data using RAPIDS](https://github.com/nozaripo/Data_Wrangling/blob/master/GPU-Accelerated%20Data%20Analytics%20for%20Gigantic%20Infection%20Data/Accelerated_Data_Analytics.ipynb) | Oct 2023 | Python, RAPIDS, Google Colab, DASK, cuDF, cuML, cuPy | Analyzed the gigantic dataset of infection (~60 million data points) using RAPIDS suite.|
+|  [Stock Data Analytics: From Extraction to Visualization](https://github.com/nozaripo/Data_Wrangling/blob/master/Stock%20-%20Web%20Scraping%20%26%20Plotly/Stock_Data_Wrangling-Web_Scraping_Visualization.ipynb) | Sep 2023 | Python, Web Scraping with BeautifulSoup, yfinance, Plotly, Pandas, Rest API | Solved the stock data extraction problem and built dashboards for visualization of the data.|
+|  [Data Wrangling for Gapminder Dataset](https://github.com/nozaripo/Data_Wrangling/blob/master/Data%20Manipulation%20%26%20Visualization%20for%20Gapminder/Tidyverse_Gapminder.pdf) | Feb 2022 | R, tidyverse (dplyr, tidyr, ggplot) | Provided an overview of data manipulation and visualization for Gapminder dataset in R.|
+|  [Investigating Netflix Movies & Guest Stars](https://github.com/nozaripo/Data_Wrangling/blob/master/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20the%20Office/notebook.ipynb) | Aug 2019 | Python, Pandas, Matplotlib | Analyzed the data for Netflix movies and guest stars.|
+
+<!--- |  [The New York Social Network Graph Project](https://github.com/hhaeri/The-New-York-Social-Graph) | Jan 2022 | Python, Beautiful Soup, NetworkX, NLTK, Regex, Rest API | Built a social network for New York's social elite by web scraping the New York Social Diary.| 
+--->
 
 
 # <a href="" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/reinforcement-learning-2040769-1721120.png" alt="" height="50" width="50" /></a> Reinforcement Learning
